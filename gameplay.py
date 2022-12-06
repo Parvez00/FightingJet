@@ -11,7 +11,7 @@ game_background_rect = game_background.get_rect()
 class Opponent(pygame.sprite.Sprite):
     def __init__(self):
         pygame.sprite.Sprite.__init__(self)
-        self.image = pygame.image.load("oponent-jet.png")
+        self.image = pygame.image.load("opponent-jet.png")
         self.image = pygame.transform.scale(self.image, (50, 50))
         self.rect = self.image.get_rect()
         self.rect.x = random.randrange(game_window_width - self.rect.width)

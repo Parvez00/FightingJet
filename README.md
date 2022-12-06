@@ -1,2 +1,6 @@
 # FightingJet
 Fighting Jet is a Air Shooting Jet which is build with pygame.
+
+Game Controll:
+1. Move your mouse to move the fighting Jet
+2. Click mouse to shoot shell to your opponents

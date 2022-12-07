@@ -1,4 +1,7 @@
 # FightingJet
+Submitted By: Md Sharfuddin Parvez
+ID: 2201220
+
 Fighting Jet is a Air Shooting Jet which is build with pygame.
 
 Game Control:
